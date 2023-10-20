@@ -1,0 +1,394 @@
+[31-Aug-2022 17:48:49 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function real_escape_string() on null in /home1/eltecico/public_html/Registros/includes/load.php:12
+Stack trace:
+#0 {main}
+  thrown in /home1/eltecico/public_html/Registros/includes/load.php on line 12
+[31-Aug-2022 17:49:03 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function real_escape_string() on null in /home1/eltecico/public_html/Registros/includes/load.php:12
+Stack trace:
+#0 {main}
+  thrown in /home1/eltecico/public_html/Registros/includes/load.php on line 12
+[31-Aug-2022 17:49:03 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function real_escape_string() on null in /home1/eltecico/public_html/Registros/includes/load.php:12
+Stack trace:
+#0 {main}
+  thrown in /home1/eltecico/public_html/Registros/includes/load.php on line 12
+[31-Aug-2022 17:49:03 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function real_escape_string() on null in /home1/eltecico/public_html/Registros/includes/load.php:12
+Stack trace:
+#0 {main}
+  thrown in /home1/eltecico/public_html/Registros/includes/load.php on line 12
+[31-Aug-2022 17:49:03 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function real_escape_string() on null in /home1/eltecico/public_html/Registros/includes/load.php:12
+Stack trace:
+#0 {main}
+  thrown in /home1/eltecico/public_html/Registros/includes/load.php on line 12
+[31-Aug-2022 17:49:03 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function real_escape_string() on null in /home1/eltecico/public_html/Registros/includes/load.php:12
+Stack trace:
+#0 {main}
+  thrown in /home1/eltecico/public_html/Registros/includes/load.php on line 12
+[31-Aug-2022 17:49:03 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function real_escape_string() on null in /home1/eltecico/public_html/Registros/includes/load.php:12
+Stack trace:
+#0 {main}
+  thrown in /home1/eltecico/public_html/Registros/includes/load.php on line 12
+[31-Aug-2022 17:49:03 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function real_escape_string() on null in /home1/eltecico/public_html/Registros/includes/load.php:12
+Stack trace:
+#0 {main}
+  thrown in /home1/eltecico/public_html/Registros/includes/load.php on line 12
+[31-Aug-2022 17:49:04 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function real_escape_string() on null in /home1/eltecico/public_html/Registros/includes/load.php:12
+Stack trace:
+#0 {main}
+  thrown in /home1/eltecico/public_html/Registros/includes/load.php on line 12
+[31-Aug-2022 17:50:06 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function real_escape_string() on null in /home1/eltecico/public_html/Registros/includes/load.php:12
+Stack trace:
+#0 {main}
+  thrown in /home1/eltecico/public_html/Registros/includes/load.php on line 12
+[31-Aug-2022 17:51:02 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function real_escape_string() on null in /home1/eltecico/public_html/Registros/includes/load.php:12
+Stack trace:
+#0 {main}
+  thrown in /home1/eltecico/public_html/Registros/includes/load.php on line 12
+[31-Aug-2022 17:59:27 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function real_escape_string() on null in /home1/eltecico/public_html/Registros/includes/load.php:12
+Stack trace:
+#0 {main}
+  thrown in /home1/eltecico/public_html/Registros/includes/load.php on line 12
+[31-Aug-2022 18:01:25 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function real_escape_string() on null in /home1/eltecico/public_html/Registros/includes/load.php:12
+Stack trace:
+#0 {main}
+  thrown in /home1/eltecico/public_html/Registros/includes/load.php on line 12
+[31-Aug-2022 18:08:25 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function real_escape_string() on null in /home1/eltecico/public_html/Registros/includes/load.php:12
+Stack trace:
+#0 {main}
+  thrown in /home1/eltecico/public_html/Registros/includes/load.php on line 12
+[31-Aug-2022 18:10:47 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function real_escape_string() on null in /home1/eltecico/public_html/Registros/includes/load.php:12
+Stack trace:
+#0 {main}
+  thrown in /home1/eltecico/public_html/Registros/includes/load.php on line 12
+[02-Sep-2022 19:48:20 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'mysql' not found in /home1/eltecico/public_html/Registros/includes/config.php:4
+Stack trace:
+#0 /home1/eltecico/public_html/Registros/includes/load.php(3): require()
+#1 {main}
+  thrown in /home1/eltecico/public_html/Registros/includes/config.php on line 4
+[02-Sep-2022 19:48:28 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'mysql' not found in /home1/eltecico/public_html/Registros/includes/config.php:4
+Stack trace:
+#0 /home1/eltecico/public_html/Registros/includes/load.php(3): require()
+#1 {main}
+  thrown in /home1/eltecico/public_html/Registros/includes/config.php on line 4
+[02-Sep-2022 20:05:50 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'mysql' not found in /home1/eltecico/public_html/Registros/includes/config.php:4
+Stack trace:
+#0 /home1/eltecico/public_html/Registros/includes/load.php(3): require()
+#1 {main}
+  thrown in /home1/eltecico/public_html/Registros/includes/config.php on line 4
+[02-Sep-2022 20:06:05 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'mysql' not found in /home1/eltecico/public_html/Registros/includes/config.php:4
+Stack trace:
+#0 /home1/eltecico/public_html/Registros/includes/load.php(3): require()
+#1 {main}
+  thrown in /home1/eltecico/public_html/Registros/includes/config.php on line 4
+[02-Sep-2022 20:10:37 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'mysql' not found in /home1/eltecico/public_html/Registros/includes/config.php:4
+Stack trace:
+#0 /home1/eltecico/public_html/Registros/includes/load.php(3): require()
+#1 {main}
+  thrown in /home1/eltecico/public_html/Registros/includes/config.php on line 4
+[02-Sep-2022 20:15:47 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'mysql' not found in /home1/eltecico/public_html/Registros/includes/config.php:4
+Stack trace:
+#0 /home1/eltecico/public_html/Registros/includes/load.php(3): require()
+#1 {main}
+  thrown in /home1/eltecico/public_html/Registros/includes/config.php on line 4
+[02-Sep-2022 20:15:49 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'mysql' not found in /home1/eltecico/public_html/Registros/includes/config.php:4
+Stack trace:
+#0 /home1/eltecico/public_html/Registros/includes/load.php(3): require()
+#1 {main}
+  thrown in /home1/eltecico/public_html/Registros/includes/config.php on line 4
+[02-Sep-2022 20:15:50 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'mysql' not found in /home1/eltecico/public_html/Registros/includes/config.php:4
+Stack trace:
+#0 /home1/eltecico/public_html/Registros/includes/load.php(3): require()
+#1 {main}
+  thrown in /home1/eltecico/public_html/Registros/includes/config.php on line 4
+[02-Sep-2022 20:15:51 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'mysql' not found in /home1/eltecico/public_html/Registros/includes/config.php:4
+Stack trace:
+#0 /home1/eltecico/public_html/Registros/includes/load.php(3): require()
+#1 {main}
+  thrown in /home1/eltecico/public_html/Registros/includes/config.php on line 4
+[02-Sep-2022 20:15:52 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'mysql' not found in /home1/eltecico/public_html/Registros/includes/config.php:4
+Stack trace:
+#0 /home1/eltecico/public_html/Registros/includes/load.php(3): require()
+#1 {main}
+  thrown in /home1/eltecico/public_html/Registros/includes/config.php on line 4
+[02-Sep-2022 20:15:53 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'mysql' not found in /home1/eltecico/public_html/Registros/includes/config.php:4
+Stack trace:
+#0 /home1/eltecico/public_html/Registros/includes/load.php(3): require()
+#1 {main}
+  thrown in /home1/eltecico/public_html/Registros/includes/config.php on line 4
+[02-Sep-2022 20:15:54 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'mysql' not found in /home1/eltecico/public_html/Registros/includes/config.php:4
+Stack trace:
+#0 /home1/eltecico/public_html/Registros/includes/load.php(3): require()
+#1 {main}
+  thrown in /home1/eltecico/public_html/Registros/includes/config.php on line 4
+[02-Sep-2022 20:15:55 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'mysql' not found in /home1/eltecico/public_html/Registros/includes/config.php:4
+Stack trace:
+#0 /home1/eltecico/public_html/Registros/includes/load.php(3): require()
+#1 {main}
+  thrown in /home1/eltecico/public_html/Registros/includes/config.php on line 4
+[02-Sep-2022 20:15:56 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'mysql' not found in /home1/eltecico/public_html/Registros/includes/config.php:4
+Stack trace:
+#0 /home1/eltecico/public_html/Registros/includes/load.php(3): require()
+#1 {main}
+  thrown in /home1/eltecico/public_html/Registros/includes/config.php on line 4
+[02-Sep-2022 20:15:56 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'mysql' not found in /home1/eltecico/public_html/Registros/includes/config.php:4
+Stack trace:
+#0 /home1/eltecico/public_html/Registros/includes/load.php(3): require()
+#1 {main}
+  thrown in /home1/eltecico/public_html/Registros/includes/config.php on line 4
+[02-Sep-2022 20:16:05 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'mysql' not found in /home1/eltecico/public_html/Registros/includes/config.php:4
+Stack trace:
+#0 /home1/eltecico/public_html/Registros/includes/load.php(3): require()
+#1 {main}
+  thrown in /home1/eltecico/public_html/Registros/includes/config.php on line 4
+[02-Sep-2022 20:16:17 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'mysql' not found in /home1/eltecico/public_html/Registros/includes/config.php:4
+Stack trace:
+#0 /home1/eltecico/public_html/Registros/includes/load.php(3): require()
+#1 {main}
+  thrown in /home1/eltecico/public_html/Registros/includes/config.php on line 4
+[02-Sep-2022 20:16:19 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'mysql' not found in /home1/eltecico/public_html/Registros/includes/config.php:4
+Stack trace:
+#0 /home1/eltecico/public_html/Registros/includes/load.php(3): require()
+#1 {main}
+  thrown in /home1/eltecico/public_html/Registros/includes/config.php on line 4
+[02-Sep-2022 20:16:37 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'mysql' not found in /home1/eltecico/public_html/Registros/includes/config.php:4
+Stack trace:
+#0 /home1/eltecico/public_html/Registros/includes/load.php(3): require()
+#1 {main}
+  thrown in /home1/eltecico/public_html/Registros/includes/config.php on line 4
+[02-Sep-2022 20:16:41 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'mysql' not found in /home1/eltecico/public_html/Registros/includes/config.php:4
+Stack trace:
+#0 /home1/eltecico/public_html/Registros/includes/load.php(3): require()
+#1 {main}
+  thrown in /home1/eltecico/public_html/Registros/includes/config.php on line 4
+[02-Sep-2022 20:16:52 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'mysql' not found in /home1/eltecico/public_html/Registros/includes/config.php:4
+Stack trace:
+#0 /home1/eltecico/public_html/Registros/includes/load.php(3): require()
+#1 {main}
+  thrown in /home1/eltecico/public_html/Registros/includes/config.php on line 4
+[02-Sep-2022 20:16:55 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'mysql' not found in /home1/eltecico/public_html/Registros/includes/config.php:4
+Stack trace:
+#0 /home1/eltecico/public_html/Registros/includes/load.php(3): require()
+#1 {main}
+  thrown in /home1/eltecico/public_html/Registros/includes/config.php on line 4
+[02-Sep-2022 20:17:43 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'mysql' not found in /home1/eltecico/public_html/Registros/includes/config.php:4
+Stack trace:
+#0 /home1/eltecico/public_html/Registros/includes/load.php(4): require()
+#1 {main}
+  thrown in /home1/eltecico/public_html/Registros/includes/config.php on line 4
+[02-Sep-2022 20:17:53 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'mysql' not found in /home1/eltecico/public_html/Registros/includes/config.php:4
+Stack trace:
+#0 /home1/eltecico/public_html/Registros/includes/load.php(4): require()
+#1 {main}
+  thrown in /home1/eltecico/public_html/Registros/includes/config.php on line 4
+[02-Sep-2022 20:39:12 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'mysql' not found in /home1/eltecico/public_html/Registros/includes/config.php:4
+Stack trace:
+#0 /home1/eltecico/public_html/Registros/includes/load.php(4): require()
+#1 {main}
+  thrown in /home1/eltecico/public_html/Registros/includes/config.php on line 4
+[02-Sep-2022 20:39:25 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'mysql' not found in /home1/eltecico/public_html/Registros/includes/config.php:4
+Stack trace:
+#0 /home1/eltecico/public_html/Registros/includes/load.php(4): require()
+#1 {main}
+  thrown in /home1/eltecico/public_html/Registros/includes/config.php on line 4
+[02-Sep-2022 20:39:41 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'mysql' not found in /home1/eltecico/public_html/Registros/includes/config.php:4
+Stack trace:
+#0 /home1/eltecico/public_html/Registros/includes/load.php(4): require()
+#1 {main}
+  thrown in /home1/eltecico/public_html/Registros/includes/config.php on line 4
+[02-Sep-2022 20:40:08 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'mysql' not found in /home1/eltecico/public_html/Registros/includes/config.php:4
+Stack trace:
+#0 /home1/eltecico/public_html/Registros/includes/load.php(4): require()
+#1 {main}
+  thrown in /home1/eltecico/public_html/Registros/includes/config.php on line 4
+[02-Sep-2022 20:40:08 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'mysql' not found in /home1/eltecico/public_html/Registros/includes/config.php:4
+Stack trace:
+#0 /home1/eltecico/public_html/Registros/includes/load.php(4): require()
+#1 {main}
+  thrown in /home1/eltecico/public_html/Registros/includes/config.php on line 4
+[02-Sep-2022 20:40:09 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'mysql' not found in /home1/eltecico/public_html/Registros/includes/config.php:4
+Stack trace:
+#0 /home1/eltecico/public_html/Registros/includes/load.php(4): require()
+#1 {main}
+  thrown in /home1/eltecico/public_html/Registros/includes/config.php on line 4
+[02-Sep-2022 20:40:09 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'mysql' not found in /home1/eltecico/public_html/Registros/includes/config.php:4
+Stack trace:
+#0 /home1/eltecico/public_html/Registros/includes/load.php(4): require()
+#1 {main}
+  thrown in /home1/eltecico/public_html/Registros/includes/config.php on line 4
+[02-Sep-2022 20:40:09 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'mysql' not found in /home1/eltecico/public_html/Registros/includes/config.php:4
+Stack trace:
+#0 /home1/eltecico/public_html/Registros/includes/load.php(4): require()
+#1 {main}
+  thrown in /home1/eltecico/public_html/Registros/includes/config.php on line 4
+[02-Sep-2022 20:40:16 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'mysql' not found in /home1/eltecico/public_html/Registros/includes/config.php:4
+Stack trace:
+#0 /home1/eltecico/public_html/Registros/includes/load.php(4): require()
+#1 {main}
+  thrown in /home1/eltecico/public_html/Registros/includes/config.php on line 4
+[02-Sep-2022 20:40:25 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'mysql' not found in /home1/eltecico/public_html/Registros/includes/config.php:4
+Stack trace:
+#0 /home1/eltecico/public_html/Registros/includes/load.php(4): require()
+#1 {main}
+  thrown in /home1/eltecico/public_html/Registros/includes/config.php on line 4
+[02-Sep-2022 20:42:04 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'mysql' not found in /home1/eltecico/public_html/Registros/includes/config.php:4
+Stack trace:
+#0 /home1/eltecico/public_html/Registros/includes/load.php(4): require()
+#1 {main}
+  thrown in /home1/eltecico/public_html/Registros/includes/config.php on line 4
+[02-Sep-2022 20:42:06 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'mysql' not found in /home1/eltecico/public_html/Registros/includes/config.php:4
+Stack trace:
+#0 /home1/eltecico/public_html/Registros/includes/load.php(4): require()
+#1 {main}
+  thrown in /home1/eltecico/public_html/Registros/includes/config.php on line 4
+[02-Sep-2022 20:42:16 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'mysql' not found in /home1/eltecico/public_html/Registros/includes/config.php:4
+Stack trace:
+#0 /home1/eltecico/public_html/Registros/includes/load.php(4): require()
+#1 {main}
+  thrown in /home1/eltecico/public_html/Registros/includes/config.php on line 4
+[02-Sep-2022 21:01:01 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'mysql' not found in /home1/eltecico/public_html/Registros/includes/config.php:4
+Stack trace:
+#0 {main}
+  thrown in /home1/eltecico/public_html/Registros/includes/config.php on line 4
+[02-Sep-2022 21:01:42 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'mysql' not found in /home1/eltecico/public_html/Registros/includes/config.php:4
+Stack trace:
+#0 {main}
+  thrown in /home1/eltecico/public_html/Registros/includes/config.php on line 4
+[02-Sep-2022 21:01:47 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'mysql' not found in /home1/eltecico/public_html/Registros/includes/config.php:4
+Stack trace:
+#0 {main}
+  thrown in /home1/eltecico/public_html/Registros/includes/config.php on line 4
+[02-Sep-2022 21:03:13 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'mysql' not found in /home1/eltecico/public_html/Registros/includes/config.php:4
+Stack trace:
+#0 {main}
+  thrown in /home1/eltecico/public_html/Registros/includes/config.php on line 4
+[02-Sep-2022 21:04:05 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'mysql' not found in /home1/eltecico/public_html/Registros/includes/config.php:4
+Stack trace:
+#0 {main}
+  thrown in /home1/eltecico/public_html/Registros/includes/config.php on line 4
+[02-Sep-2022 21:06:18 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'mysql' not found in /home1/eltecico/public_html/Registros/includes/config.php:4
+Stack trace:
+#0 {main}
+  thrown in /home1/eltecico/public_html/Registros/includes/config.php on line 4
+[02-Sep-2022 21:06:21 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'mysql' not found in /home1/eltecico/public_html/Registros/includes/config.php:4
+Stack trace:
+#0 {main}
+  thrown in /home1/eltecico/public_html/Registros/includes/config.php on line 4
+[02-Sep-2022 21:06:22 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'mysql' not found in /home1/eltecico/public_html/Registros/includes/config.php:4
+Stack trace:
+#0 {main}
+  thrown in /home1/eltecico/public_html/Registros/includes/config.php on line 4
+[02-Sep-2022 21:06:23 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'mysql' not found in /home1/eltecico/public_html/Registros/includes/config.php:4
+Stack trace:
+#0 {main}
+  thrown in /home1/eltecico/public_html/Registros/includes/config.php on line 4
+[02-Sep-2022 21:06:24 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'mysql' not found in /home1/eltecico/public_html/Registros/includes/config.php:4
+Stack trace:
+#0 {main}
+  thrown in /home1/eltecico/public_html/Registros/includes/config.php on line 4
+[02-Sep-2022 21:06:25 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'mysql' not found in /home1/eltecico/public_html/Registros/includes/config.php:4
+Stack trace:
+#0 {main}
+  thrown in /home1/eltecico/public_html/Registros/includes/config.php on line 4
+[02-Sep-2022 21:06:26 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'mysql' not found in /home1/eltecico/public_html/Registros/includes/config.php:4
+Stack trace:
+#0 {main}
+  thrown in /home1/eltecico/public_html/Registros/includes/config.php on line 4
+[02-Sep-2022 21:06:26 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'mysql' not found in /home1/eltecico/public_html/Registros/includes/config.php:4
+Stack trace:
+#0 {main}
+  thrown in /home1/eltecico/public_html/Registros/includes/config.php on line 4
+[02-Sep-2022 21:06:28 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'mysql' not found in /home1/eltecico/public_html/Registros/includes/config.php:4
+Stack trace:
+#0 {main}
+  thrown in /home1/eltecico/public_html/Registros/includes/config.php on line 4
+[02-Sep-2022 21:06:28 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'mysql' not found in /home1/eltecico/public_html/Registros/includes/config.php:4
+Stack trace:
+#0 {main}
+  thrown in /home1/eltecico/public_html/Registros/includes/config.php on line 4
+[02-Sep-2022 21:06:28 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'mysql' not found in /home1/eltecico/public_html/Registros/includes/config.php:4
+Stack trace:
+#0 {main}
+  thrown in /home1/eltecico/public_html/Registros/includes/config.php on line 4
+[02-Sep-2022 21:06:32 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'mysql' not found in /home1/eltecico/public_html/Registros/includes/config.php:4
+Stack trace:
+#0 {main}
+  thrown in /home1/eltecico/public_html/Registros/includes/config.php on line 4
+[02-Sep-2022 21:06:33 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'mysql' not found in /home1/eltecico/public_html/Registros/includes/config.php:4
+Stack trace:
+#0 {main}
+  thrown in /home1/eltecico/public_html/Registros/includes/config.php on line 4
+[02-Sep-2022 21:06:34 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'mysql' not found in /home1/eltecico/public_html/Registros/includes/config.php:4
+Stack trace:
+#0 {main}
+  thrown in /home1/eltecico/public_html/Registros/includes/config.php on line 4
+[02-Sep-2022 21:06:35 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'mysql' not found in /home1/eltecico/public_html/Registros/includes/config.php:6
+Stack trace:
+#0 {main}
+  thrown in /home1/eltecico/public_html/Registros/includes/config.php on line 6
+[02-Sep-2022 21:06:54 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'mysql' not found in /home1/eltecico/public_html/Registros/includes/config.php:6
+Stack trace:
+#0 {main}
+  thrown in /home1/eltecico/public_html/Registros/includes/config.php on line 6
+[02-Sep-2022 21:11:15 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'eltecico_registro1'@'localhost' (using password: YES) in /home1/eltecico/public_html/Registros/includes/config.php on line 6
+[02-Sep-2022 21:11:22 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'eltecico_registro1'@'localhost' (using password: YES) in /home1/eltecico/public_html/Registros/includes/config.php on line 6
+[02-Sep-2022 21:11:41 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'eltecico_registro1'@'localhost' (using password: YES) in /home1/eltecico/public_html/Registros/includes/config.php on line 6
+[02-Sep-2022 21:14:06 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'eltecico_registro1'@'localhost' (using password: YES) in /home1/eltecico/public_html/Registros/includes/config.php on line 6
+[02-Sep-2022 21:14:08 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'eltecico_registro1'@'localhost' (using password: YES) in /home1/eltecico/public_html/Registros/includes/config.php on line 6
+[02-Sep-2022 21:16:07 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'eltecico_registro1'@'localhost' (using password: YES) in /home1/eltecico/public_html/Registros/includes/config.php on line 6
+[02-Sep-2022 21:16:10 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'eltecico_registro1'@'localhost' (using password: YES) in /home1/eltecico/public_html/Registros/includes/config.php on line 6
+[02-Sep-2022 21:16:14 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'eltecico_registro1'@'localhost' (using password: YES) in /home1/eltecico/public_html/Registros/includes/config.php on line 6
+[02-Sep-2022 21:16:15 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'eltecico_registro1'@'localhost' (using password: YES) in /home1/eltecico/public_html/Registros/includes/config.php on line 6
+[02-Sep-2022 21:16:16 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'eltecico_registro1'@'localhost' (using password: YES) in /home1/eltecico/public_html/Registros/includes/config.php on line 6
+[02-Sep-2022 21:16:48 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'eltecico_registro1'@'localhost' (using password: YES) in /home1/eltecico/public_html/Registros/includes/config.php on line 6
+[02-Sep-2022 21:16:52 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'eltecico_registro1'@'localhost' (using password: YES) in /home1/eltecico/public_html/Registros/includes/config.php on line 6
+[02-Sep-2022 21:16:56 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'eltecico_registro1'@'localhost' (using password: YES) in /home1/eltecico/public_html/Registros/includes/config.php on line 6
+[02-Sep-2022 21:16:57 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'eltecico_registro1'@'localhost' (using password: YES) in /home1/eltecico/public_html/Registros/includes/config.php on line 6
+[02-Sep-2022 21:17:25 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'eltecico_registro1'@'localhost' (using password: YES) in /home1/eltecico/public_html/Registros/includes/config.php on line 6
+[02-Sep-2022 21:17:28 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'eltecico_registro1'@'localhost' (using password: YES) in /home1/eltecico/public_html/Registros/includes/config.php on line 6
+[02-Sep-2022 21:17:30 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'eltecico_registro1'@'localhost' (using password: YES) in /home1/eltecico/public_html/Registros/includes/config.php on line 6
+[02-Sep-2022 21:17:32 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'eltecico_registro1'@'localhost' (using password: YES) in /home1/eltecico/public_html/Registros/includes/config.php on line 6
+[02-Sep-2022 21:17:34 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'eltecico_registro1'@'localhost' (using password: YES) in /home1/eltecico/public_html/Registros/includes/config.php on line 6
+[02-Sep-2022 21:17:36 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'eltecico_registro1'@'localhost' (using password: YES) in /home1/eltecico/public_html/Registros/includes/config.php on line 6
+[02-Sep-2022 21:17:38 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'eltecico_registro1'@'localhost' (using password: YES) in /home1/eltecico/public_html/Registros/includes/config.php on line 6
+[02-Sep-2022 21:17:40 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'eltecico_registro1'@'localhost' (using password: YES) in /home1/eltecico/public_html/Registros/includes/config.php on line 6
+[02-Sep-2022 21:17:43 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'eltecico_registro1'@'localhost' (using password: YES) in /home1/eltecico/public_html/Registros/includes/config.php on line 6
+[02-Sep-2022 21:17:45 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'eltecico_registro1'@'localhost' (using password: YES) in /home1/eltecico/public_html/Registros/includes/config.php on line 6
+[02-Sep-2022 21:17:47 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'eltecico_registro1'@'localhost' (using password: YES) in /home1/eltecico/public_html/Registros/includes/config.php on line 6
+[02-Sep-2022 21:17:49 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'eltecico_registro1'@'localhost' (using password: YES) in /home1/eltecico/public_html/Registros/includes/config.php on line 6
+[02-Sep-2022 21:17:50 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'eltecico_registro1'@'localhost' (using password: YES) in /home1/eltecico/public_html/Registros/includes/config.php on line 6
+[02-Sep-2022 21:17:51 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'eltecico_registro1'@'localhost' (using password: YES) in /home1/eltecico/public_html/Registros/includes/config.php on line 6
+[02-Sep-2022 21:17:52 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'eltecico_registro1'@'localhost' (using password: YES) in /home1/eltecico/public_html/Registros/includes/config.php on line 6
+[02-Sep-2022 21:17:53 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'eltecico_registro1'@'localhost' (using password: YES) in /home1/eltecico/public_html/Registros/includes/config.php on line 6
+[02-Sep-2022 21:17:54 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'eltecico_registro1'@'localhost' (using password: YES) in /home1/eltecico/public_html/Registros/includes/config.php on line 6
+[02-Sep-2022 21:17:55 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'eltecico_registro1'@'localhost' (using password: YES) in /home1/eltecico/public_html/Registros/includes/config.php on line 6
+[02-Sep-2022 21:17:57 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'eltecico_registro1'@'localhost' (using password: YES) in /home1/eltecico/public_html/Registros/includes/config.php on line 6
+[02-Sep-2022 21:17:57 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'eltecico_registro1'@'localhost' (using password: YES) in /home1/eltecico/public_html/Registros/includes/config.php on line 6
+[02-Sep-2022 21:17:58 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'eltecico_registro1'@'localhost' (using password: YES) in /home1/eltecico/public_html/Registros/includes/config.php on line 6
+[02-Sep-2022 21:18:00 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'eltecico_registro1'@'localhost' (using password: YES) in /home1/eltecico/public_html/Registros/includes/config.php on line 6
+[02-Sep-2022 21:18:01 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'eltecico_registro1'@'localhost' (using password: YES) in /home1/eltecico/public_html/Registros/includes/config.php on line 6
+[02-Sep-2022 21:19:08 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'eltecico_registro1'@'localhost' (using password: YES) in /home1/eltecico/public_html/Registros/includes/config.php on line 6
+[02-Sep-2022 21:19:10 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'eltecico_registro1'@'localhost' (using password: YES) in /home1/eltecico/public_html/Registros/includes/config.php on line 6
+[02-Sep-2022 21:20:17 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'eltecico_registrosu'@'localhost' to database 'eltecico_registro1' in /home1/eltecico/public_html/Registros/includes/config.php on line 6
+[02-Sep-2022 21:20:43 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'eltecico_registrosu'@'localhost' to database 'eltecico_registro1' in /home1/eltecico/public_html/Registros/includes/config.php on line 6
+[02-Sep-2022 21:22:27 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'eltecico_registrosu'@'localhost' to database 'eltecico_registro1' in /home1/eltecico/public_html/Registros/includes/config.php on line 6
+[02-Sep-2022 21:22:34 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'eltecico_registrosu'@'localhost' to database 'eltecico_registro1' in /home1/eltecico/public_html/Registros/includes/config.php on line 6
+[02-Sep-2022 21:22:49 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'eltecico_registrosu'@'localhost' to database 'eltecico_registro1' in /home1/eltecico/public_html/Registros/includes/config.php on line 6
+[02-Sep-2022 21:22:55 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'eltecico_registrosu'@'localhost' to database 'eltecico_registro1' in /home1/eltecico/public_html/Registros/includes/config.php on line 6
+[02-Sep-2022 21:22:58 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'eltecico_registrosu'@'localhost' to database 'eltecico_registro1' in /home1/eltecico/public_html/Registros/includes/config.php on line 6
+[02-Sep-2022 21:23:08 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'eltecico_registrosu'@'localhost' to database 'eltecico_registro1' in /home1/eltecico/public_html/Registros/includes/config.php on line 6
+[02-Sep-2022 21:23:10 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'eltecico_registrosu'@'localhost' to database 'eltecico_registro1' in /home1/eltecico/public_html/Registros/includes/config.php on line 6
+[02-Sep-2022 21:23:12 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'eltecico_registrosu'@'localhost' to database 'eltecico_registro1' in /home1/eltecico/public_html/Registros/includes/config.php on line 6
+[02-Sep-2022 21:23:14 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'eltecico_registrosu'@'localhost' to database 'eltecico_registro1' in /home1/eltecico/public_html/Registros/includes/config.php on line 6
+[02-Sep-2022 21:24:08 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'eltecico_registrosu'@'localhost' to database 'eltecico_registro1' in /home1/eltecico/public_html/Registros/includes/config.php on line 6
+[02-Sep-2022 21:24:10 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'eltecico_registrosu'@'localhost' to database 'eltecico_registro1' in /home1/eltecico/public_html/Registros/includes/config.php on line 6
+[02-Sep-2022 21:24:48 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'eltecico_registrosu'@'localhost' to database 'eltecico_registro1' in /home1/eltecico/public_html/Registros/includes/config.php on line 6
+[02-Sep-2022 21:27:19 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'eltecico_registrosu'@'localhost' (using password: YES) in /home1/eltecico/public_html/Registros/includes/config.php on line 6
+[02-Sep-2022 21:27:26 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'eltecico_registrosu'@'localhost' (using password: YES) in /home1/eltecico/public_html/Registros/includes/config.php on line 6
+[02-Sep-2022 21:27:33 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'eltecico_registrosu'@'localhost' (using password: YES) in /home1/eltecico/public_html/Registros/includes/config.php on line 6
+[02-Sep-2022 21:28:23 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'eltecico_registrosu'@'localhost' (using password: YES) in /home1/eltecico/public_html/Registros/includes/config.php on line 6
+[02-Sep-2022 21:29:20 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'eltecico_registrosu'@'localhost' (using password: YES) in /home1/eltecico/public_html/Registros/includes/config.php on line 6
+[02-Sep-2022 21:29:22 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'eltecico_registrosu'@'localhost' (using password: YES) in /home1/eltecico/public_html/Registros/includes/config.php on line 6
+[02-Sep-2022 21:37:51 America/Chicago] PHP Notice:  Trying to get property 'num_rows' of non-object in /home1/eltecico/public_html/Registros/includes/load.php on line 21
+[02-Sep-2022 21:40:31 America/Chicago] PHP Notice:  Trying to get property 'num_rows' of non-object in /home1/eltecico/public_html/Registros/includes/load.php on line 21
+[02-Sep-2022 21:42:42 America/Chicago] PHP Notice:  Undefined variable: num_rows in /home1/eltecico/public_html/Registros/includes/load.php on line 24
+[02-Sep-2022 21:46:48 America/Chicago] PHP Notice:  Undefined variable: num_rows in /home1/eltecico/public_html/Registros/includes/load.php on line 24
+[02-Sep-2022 21:47:07 America/Chicago] PHP Notice:  Undefined variable: num_rows in /home1/eltecico/public_html/Registros/includes/load.php on line 24
+[02-Sep-2022 21:47:10 America/Chicago] PHP Notice:  Undefined variable: num_rows in /home1/eltecico/public_html/Registros/includes/load.php on line 24
